@@ -4,6 +4,12 @@ A group's shared expenses — no spreadsheets, no account required for
 everyone, no ads. Built across four progressive tiers as a Streamlit
 prototype.
 
+This project was developed during a hackathon based on the
+organizer's problem statement and provided context. The
+implementation was created through AI-assisted coding, with me
+leading the requirements, prompting, testing, and iterative
+refinement.
+
 ## Files
 
 | File            | Tier(s) | What it is                                                          |

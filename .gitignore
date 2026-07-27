@@ -1,0 +1,11 @@
+﻿whoowes.db
+whoowes.db-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.DS_Store
+Thumbs.db
+
+
